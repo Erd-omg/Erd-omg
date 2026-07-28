@@ -44,13 +44,5 @@ I'm **Erd** — a college student and **game developer** passionate about bringi
 - [**club_management**](https://github.com/Erd-omg/club_management) — 高校社团管理系统  
   *Campus club management platform*
 
----
-
-### 📊 GitHub Stats
-
-![Erd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erd-omg&show_icons=true&theme=default&hide_border=true)
-
----
-
 *Thanks for stopping by — feel free to explore my repos and connect! 🚀*  
 *感谢光临，欢迎探索我的项目，一起交流！*
